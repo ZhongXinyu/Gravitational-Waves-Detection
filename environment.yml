@@ -1,0 +1,22 @@
+name: 04_Gravitational_Wave
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python
+  - numpy
+  - pandas
+  - ipykernel
+  - matplotlib
+  - seaborn
+  - lalsuite
+  - gwpy
+  - gwosc
+  - bilby
+  - pycbc
+  - pytorch
+  - h5py
+  - dynesty
+  
+  # - bilby-pipe
