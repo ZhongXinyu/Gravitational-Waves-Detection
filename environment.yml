@@ -1,4 +1,4 @@
-name: 04_Gravitational_Wave
+name: Gravitational_Wave
 
 channels:
   - conda-forge
