@@ -1,4 +1,4 @@
-# Project Name
+# Gravitational Wave minor project
 
 ## Introduction
 This is the repo for the coursework of the module Gravitational Wave minor project. 
